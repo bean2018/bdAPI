@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc93c23f-a5ac-4b3f-8796-35cf40bcd1b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YG1QlH2rdzFiv5NkRS5RBtBDTc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ragion\Python\ditu\ditu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.始末位置预处理 (1)">
+    <configuration name="始末位置预处理 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ditu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ditu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ditu/始末位置预处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="始末位置预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ditu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ditu/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\ragion\Python\ditu\ditu\始末位置预处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="百度地图API" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ditu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ditu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ditu/百度地图API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bddt_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ditu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ditu/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ditu/spiders/bddt_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.始末位置预处理 (1)" />
+        <item itemvalue="Python.bddt_spider" />
+        <item itemvalue="Python.始末位置预处理" />
+        <item itemvalue="Python.百度地图API" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc93c23f-a5ac-4b3f-8796-35cf40bcd1b5" name="Default Changelist" comment="" />
+      <created>1582554102900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582554102900</updated>
+      <workItem from="1582554104309" duration="26522000" />
+      <workItem from="1582975328935" duration="4504000" />
+      <workItem from="1582996230211" duration="13000" />
+      <workItem from="1582996259265" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="39" key="#SQL_Dialects" timestamp="1582604443401">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="39" key="#SQL_Dialects/0.0.1280.760/90.-1080.1536.824@0.0.1280.760" timestamp="1582604443401" />
+    <state x="233" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582603878528">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760/90.-1080.1536.824@0.0.1280.760" timestamp="1582603878528" />
+    <state x="423" y="136" key="FileChooserDialogImpl" timestamp="1582975490476">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="423" y="136" key="FileChooserDialogImpl/0.0.1280.760/638.-1080.1536.824@0.0.1280.760" timestamp="1582975490476" />
+    <state x="423" y="136" key="FileChooserDialogImpl/0.0.1280.760/90.-1080.1536.824@0.0.1280.760" timestamp="1582603738275" />
+    <state width="764" height="152" key="GridCell.Tab.0.bottom" timestamp="1582979849130">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="764" height="152" key="GridCell.Tab.0.bottom/0.0.1280.760/638.-1080.1536.824@0.0.1280.760" timestamp="1582979849130" />
+    <state width="1238" height="152" key="GridCell.Tab.0.bottom/0.0.1280.760/90.-1080.1536.824@0.0.1280.760" timestamp="1582625765813" />
+    <state width="764" height="152" key="GridCell.Tab.0.center" timestamp="1582979849130">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="764" height="152" key="GridCell.Tab.0.center/0.0.1280.760/638.-1080.1536.824@0.0.1280.760" timestamp="1582979849130" />
+    <state width="1238" height="152" key="GridCell.Tab.0.center/0.0.1280.760/90.-1080.1536.824@0.0.1280.760" timestamp="1582625765813" />
+    <state width="764" height="152" key="GridCell.Tab.0.left" timestamp="1582979849130">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="764" height="152" key="GridCell.Tab.0.left/0.0.1280.760/638.-1080.1536.824@0.0.1280.760" timestamp="1582979849130" />
+    <state width="1238" height="152" key="GridCell.Tab.0.left/0.0.1280.760/90.-1080.1536.824@0.0.1280.760" timestamp="1582625765813" />
+    <state width="764" height="152" key="GridCell.Tab.0.right" timestamp="1582979849130">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="764" height="152" key="GridCell.Tab.0.right/0.0.1280.760/638.-1080.1536.824@0.0.1280.760" timestamp="1582979849130" />
+    <state width="1238" height="152" key="GridCell.Tab.0.right/0.0.1280.760/90.-1080.1536.824@0.0.1280.760" timestamp="1582625765813" />
+    <state x="142" y="22" key="SettingsEditor" timestamp="1582975498617">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="142" y="22" key="SettingsEditor/0.0.1280.760/638.-1080.1536.824@0.0.1280.760" timestamp="1582975498617" />
+    <state x="142" y="22" key="SettingsEditor/0.0.1280.760/90.-1080.1536.824@0.0.1280.760" timestamp="1582554197430" />
+    <state x="350" y="58" width="633" height="617" key="dock-window-1" timestamp="1582979847240">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="350" y="58" width="633" height="617" key="dock-window-1/0.0.1280.760/638.-1080.1536.824@0.0.1280.760" timestamp="1582979847240" />
+    <state x="581" y="-1000" width="759" height="666" key="dock-window-1/0.0.1280.760/90.-1080.1536.824@0.0.1280.760" timestamp="1582615910329" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ditu$bddt_spider.coverage" NAME="bddt_spider Coverage Results" MODIFIED="1582615366614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ditu/spiders" />
+    <SUITE FILE_PATH="coverage/ditu$API.coverage" NAME="百度地图API Coverage Results" MODIFIED="1582614423026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ditu" />
+    <SUITE FILE_PATH="coverage/ditu$.coverage" NAME="始末位置预处理 Coverage Results" MODIFIED="1582614678461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ditu/spiders" />
+    <SUITE FILE_PATH="coverage/ditu$__1_.coverage" NAME="始末位置预处理 (1) Coverage Results" MODIFIED="1582979795724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ditu" />
+  </component>
+</project>

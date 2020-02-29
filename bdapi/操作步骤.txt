@@ -1,0 +1,21 @@
+1. 连接数据库
+1.1 打开CMD，输入  
+mysql -uroot -p1234
+1.2 清空坐标表和结果表
+    1.2.1切换到地图数据库   
+use ditu;
+    1.2.2清空坐标表  
+truncate coordinate;
+   1.2.3 清空结果表 
+truncate result;
+2. 将bdapi下的坐标输入到坐标表
+   运行 始末位置预处理.py
+3. 再建一个CMD ，运行爬取程序
+ 3.1 切换到爬取文件夹下  输入  
+cd C:\Users\Wang\Desktop\bdapi\ditu
+ 3.2 运行爬取程序  输入      
+scrapy crawl ditu
+4. 导出数据
+  在1.1的cmd中输入  
+select * from result into outfile 'C:/Users/Wang/Desktop/bdapi/result.csv' fields terminated by ',';
+
